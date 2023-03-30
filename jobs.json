@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "deployment of residential modules 1 and 2",
+    "team_leader": "Scott Ridley",
+    "duration": 15,
+    "collaborators": "2, 3",
+    "is_finished": "Is not finished"
+  },
+  {
+    "id": 2,
+    "title": "planting trees",
+    "team_leader": "Jeremy Johnson",
+    "duration": 30,
+    "collaborators": "3, 4",
+    "is_finished": "Is finished"
+  },
+  {
+    "id": 3,
+    "title": "some work",
+    "team_leader": "Henriksen Lance",
+    "duration": 50,
+    "collaborators": "1, 2, 3, 6",
+    "is_finished": "Is not finished"
+  },
+  {
+    "id": 4,
+    "title": "another work",
+    "team_leader": "Ripley Ellen",
+    "duration": 40,
+    "collaborators": "1, 2, 6, 8",
+    "is_finished": "Is not finished"
+  }
+]
